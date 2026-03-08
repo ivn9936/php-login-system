@@ -23,3 +23,13 @@ Simple authentication system built with PHP and MySQL.
 2. Import the users table
 3. Update database credentials in conexion.php
 4. Run the project on a local server
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Register
+![Register](screenshots/register.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
